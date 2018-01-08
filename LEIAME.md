@@ -2,7 +2,7 @@
 
 [português](LEIAME.md) | [english](README.md)
 
-Este é o repositório do capítulo do Rio de Janeiro do Papers We Love. Como um capítulo local, seguimos os Papers We Love [Código de Conduta] (https://github.com/papers-we-love/rio-de-janeiro/blob/master/codigo-de-conduta.md).
+Este é o repositório do capítulo do Rio de Janeiro do Papers We Love. Como um capítulo local, seguimos os Papers We Love [Código de Conduta](https://github.com/papers-we-love/rio-de-janeiro/blob/master/codigo-de-conduta.md).
 
 ### Bem vindo(a)
 
