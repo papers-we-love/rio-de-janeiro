@@ -10,7 +10,7 @@ Papers We Love (PWL) é uma comunidade construída em torno da leitura, discuss�
 
 Qual foi o último artigo que você leu e amou no campo da computação? Qual te inspirou à construir ou mexer com alguma coisa? Venha compartilhar as idéias de um excelente trabalho acadêmico ou pesquisa com outros engenheiros(as), programadores(as), cientistas e leitores(as) de artigos. Dirija uma sessão e mostre o código que você escreveu que implementa essas idéias ou apenas nos fale sobre o artigo. Também é bom apenas vir, ouvir e discutir!
 
-Estamos colocando neste repositório os trabalhos apresentados no PWL Rio de Janeiro. Você pode contribuir submetendo um *pull request* de artigos, códigos e/ou links para outros repositórios, no repositório principal [Repositório Papers We Love] (https://github.com/papers-we-love/papers-we-love) .
+Estamos colocando neste repositório os trabalhos apresentados no PWL Rio de Janeiro. Você pode contribuir submetendo um *pull request* de artigos, códigos e/ou links para outros repositórios, no repositório principal [Repositório Papers We Love](https://github.com/papers-we-love/papers-we-love) .
 
 ### Junte-se a nós!
 
